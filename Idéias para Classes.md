@@ -1,6 +1,6 @@
 # Idéias para algumas classes a serem implementadas
 
-Nome da Classe | Função | Atributos | Desvantagens | Itens Iniciais| Construtores | Idealizador
+Nome da Classe | Função | Atributos | Desvantagens | Itens_Iniciais| Construtores | Idealizador
 :------------: | :----: | :-------: | :----------: | :-----------: | :----------: | ---------: |
 Cozinheiro | Preparar alimentos para consumo dos sobreviventes | Cozinha bem mais rápido em comparação ao sobrevivente comum | null | 1 garrafa d'água filtrada e uma barra de cereal |Velocidade - | Arthur
 Caçador | Fornecer alimentos provenientes de caça pesca ou coleta para os sobreviventes | Tem maior facilidade para obter alimentos | sente mais fome | Adaga | Velocidade + | Adriel
