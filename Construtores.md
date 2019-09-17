@@ -1,3 +1,6 @@
 Construtor
 :--------:
-adasd
+Fome
+Sede
+Velocidade
+Coragem
