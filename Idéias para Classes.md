@@ -2,7 +2,7 @@
 
 Nome da Classe | Função | Atributos | Desvantagens | Itens Iniciais| Construtores | Idealizador
 :------------: | :----: | :-------: | :----------: | :-----------: | :----------: | ---------: |
-Cozinheiro | Preparar alimentos para consumo dos sobreviventes | Cozinha bem mais rápido em comparação ao sobrevivente comum | null | , 1 garrafa d'água filtrada e uma barra de cereal |Velocidade - | Arthur
+Cozinheiro | Preparar alimentos para consumo dos sobreviventes | Cozinha bem mais rápido em comparação ao sobrevivente comum | null | 1 garrafa d'água filtrada e uma barra de cereal |Velocidade - | Arthur
 Caçador | Fornecer alimentos provenientes de caça pesca ou coleta para os sobreviventes | Tem maior facilidade para obter alimentos | sente mais fome | Adaga | Velocidade + | Adriel
 Policial | Possui o poder de eliminar uma quantidade de jogadores igual a quantidade de impostores na partida | Null | Null | 1 arma de fogo | Coragem + | Arthur
 Quimico | Pode desintoxicar alimentos água |faz a filtragem da água mais rápidamente | null | null | filtro | Arthur
