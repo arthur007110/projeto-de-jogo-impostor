@@ -8,3 +8,5 @@ Tempo para resgate | Adriel
 Construtores estilo RPG | Arthur
 Nescessidades para sobrevivencia como: comer, beber água se aquecer... | Adriel
 Status como: fome, frio, calor | Adriel
+Assassino poder sabotar diversos recursos | Arthur
+Tarefas essenciais para cada sobrevivente | Arthur
