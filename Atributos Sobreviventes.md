@@ -2,3 +2,4 @@
 
 Atributo | Função | Presente em (Classe) | 
 :------- | :----: | :------------------: |
+Matheus e GAY
