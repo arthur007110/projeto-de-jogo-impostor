@@ -8,3 +8,4 @@ Policial | Possui o poder de eliminar uma quantidade de jogadores igual a quanti
 Quimico | Pode desintoxicar alimentos água |faz a filtragem da água mais rápidamente | null | filtro | null | Arthur
 Cinegrafista | Vigiar localizações especificas a procura do impostor | Pode deixar câmeras ao longo de onde passa e vizualizar essas câmeras via tablet | é mais vulnerável | 3 câmeras 1 tablet | null | Arthur
 Cartógrafo | Pode visualizar em seus mapas as localizações de todos os arredores e saber onde há recursos | null | null | mapa | null | Arthur
+Construtor | Construtir para os sobreviventes | constroi mais rápidamente ambientes para auxiliar na sobrevivencia e pode construir ambientes inusitados( apenas para esta classe ) | null | Caixa de Ferramentas | velocidade - | Matheus
