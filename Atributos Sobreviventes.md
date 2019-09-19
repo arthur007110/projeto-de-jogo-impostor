@@ -2,4 +2,4 @@
 
 Atributo | Função | Presente em (Classe) | 
 :------- | :----: | :------------------: |
-Matheus e GAY
+Matheus e GAY | e | é isso aew
